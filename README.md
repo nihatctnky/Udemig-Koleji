@@ -1,6 +1,6 @@
 # Udemig-Koleji
 
-Bu projde UDEMİG-KOLEJİ için ögrenci ve egitmmenler arasındaki sosyal etkileşimi saglamak için oluşturulmuştur.
+Bu projde UDEMİG-KOLEJİ için ögrenci ve egitmenler arasındaki sosyal etkileşimi saglamak için oluşturulmuştur.
 
 # Kullanılan Teknolojiler
 
